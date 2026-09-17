@@ -1,41 +1,56 @@
 # Olá, eu sou Leonardo Roseno 👋
 
-### RH + Direito + Dados + Tecnologia
+### Remuneração & Benefícios | People Analytics | Dados | Automação | RH Tech
 
-Atuo com **Remuneração & Benefícios, People Analytics, dados, automação e transformação digital**, conectando conhecimento de RH, visão jurídica e tecnologia para solucionar problemas reais de negócio.
+Profissional de Recursos Humanos com atuação em **Remuneração & Benefícios, People Analytics, dados e transformação digital**, conectando conhecimento de RH, visão jurídica e tecnologia para resolver problemas reais de negócio.
 
-Atualmente sou **Analista Sênior de Remuneração e Benefícios**, com atuação em projetos relacionados a:
+Minha trajetória combina:
 
-- 📊 People Analytics e indicadores
-- 💰 Remuneração & Benefícios
-- 📈 Cargos, Salários e Remuneração Variável
-- ⚙️ Automação de processos
-- 🤖 IA aplicada ao RH
-- 🗄️ Dados e SQL
-- 📊 Power BI e Power Query
-- 🔄 Power Automate
+**RH → Direito → Dados → Automação → Transformação Digital**
+
+Atualmente atuo como **Analista Sênior de Remuneração e Benefícios**, desenvolvendo soluções relacionadas a indicadores, remuneração, automação de processos, análise de dados e tecnologia aplicada ao RH.
+
+## Áreas de atuação
+
+- People Analytics e indicadores
+- Remuneração & Benefícios
+- Cargos, Salários e Remuneração Variável
+- Power BI e Power Query
+- Power Automate
+- Automação de processos
+- IA aplicada ao RH
+- SQL e análise de dados
 
 ## Projetos em destaque
 
 ### 📊 Acompanhamento de Premiações
-Dashboard desenvolvido em Power BI para transformar o acompanhamento operacional de premiações em uma visão executiva orientada por dados.
+
+Dashboard desenvolvido em **Power BI** para transformar o acompanhamento operacional de premiações em uma visão executiva orientada por dados.
+
+**Power BI · Power Query · DAX · SharePoint · People Analytics**
+
+---
 
 ### ⚙️ Automação de Prazos de Premiação
-Fluxo automatizado utilizando Power Automate, Excel, SharePoint e Outlook para controle e comunicação de prazos.
+
+Automação desenvolvida com **Power Automate** para controle de prazos, comunicação automática e atualização da base operacional.
+
+**Power Automate · Excel · SharePoint · Outlook · Microsoft 365**
+
+---
 
 ### 💙 Central de Benefícios
-Central digital desenvolvida para facilitar o acesso dos colaboradores às informações sobre benefícios.
 
-## Tecnologias e ferramentas
+Central digital desenvolvida para centralizar informações de benefícios e melhorar a experiência de acesso dos colaboradores.
 
-`Power BI` `Power Query` `Power Automate` `Excel` `SQL` `PostgreSQL` `SharePoint` `Microsoft 365` `IA`
+**RH Tech · UX/UI · IA · Web Responsiva**
 
-## Formação multidisciplinar
+---
 
-**Gestão de Recursos Humanos** → **Direito** → **Direito Trabalhista e Previdenciário** → **Data Analytics**
+## Conheça meu portfólio
 
-## Conecte-se comigo
+🌐 **https://lroseno.github.io/**
 
-🌐 [Portfólio](https://lroseno.github.io/)
+## Contato
 
-💼 [LinkedIn](https://linkedin.com/in/leonardoroseno)
+💼 LinkedIn: https://linkedin.com/in/leonardoroseno
